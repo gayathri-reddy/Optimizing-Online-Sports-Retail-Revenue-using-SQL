@@ -6,11 +6,11 @@ For the DataCamp project, I analyzed the online sports clothing company's data u
 
 Findings:
 
-1.Adidas is making more revenue than Nike.
-2.Adidas items generate more total revenue regardless of pricing category. Specially Elite Adidas products worth morth than 129 dollars typically generate the highest revenue.
-3. Not only Adidas products generates more revenue, but these products are also heavily discounted(~33%) compared to Nike.
-4. There is strong positive correlation between revenue and reviews.And the first quarter of calender year has more reviews.
-5. We have total amount of 3117 products. In that 2700 are footwear products, which accounts for around 85% of company's stock.
+- Adidas is making more revenue than Nike.       
+- Adidas items generate more total revenue regardless of pricing category. Specially Elite Adidas products worth morth than 129 dollars typically generate the highest revenue.      
+- Not only Adidas products generates more revenue, but these products are also heavily discounted(~33%) compared to Nike.      
+4. There is strong positive correlation between revenue and reviews.And the first quarter of calender year has more reviews.    
+5. We have total amount of 3117 products. In that 2700 are footwear products, which accounts for around 85% of company's stock.    
 
 
 
